@@ -10,9 +10,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./model.png "Model Visualization"
-[image2]: ./figure_1.png "MSE graph"
-[video1]: ./video.mp4 "Video"
+[image1]: ./model.png "Model"
+[image2]: ./figure_1.png "MSE"
+
 ---
 
 ## 1 . Files Submitted & Code Quality
